@@ -31,7 +31,7 @@ const Header = () => {
         </Link>
         <ul className="flex gap-20">
         <div>
-      <span onClick={handleSignOut} className="text-red-700 cursor-pointer">
+      <span onClick={handleSignOut} className="text-red-800 cursor-pointer">
         Sign out
       </span>
     </div>
